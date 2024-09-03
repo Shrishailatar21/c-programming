@@ -1,0 +1,15 @@
+#include <stdio.h>
+
+int main()
+{
+    int a =71;
+    printf("Roll no:%u\n",a);
+    printf("Name:shrishail.atar");
+    return 0; 
+} 
+
+
+
+output:
+Roll no:71
+Name:shrishail.atar
